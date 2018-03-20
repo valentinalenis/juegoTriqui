@@ -1,0 +1,9 @@
+#triqui td{
+	border: solid;
+	border-color: blue;
+	border-style: double;
+	height: 50px;
+	width: 50px;
+	padding: 40px;
+	font-size: 30px;
+}
